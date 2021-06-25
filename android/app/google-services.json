@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203884338737",
+    "project_id": "to-do-list-be390",
+    "storage_bucket": "to-do-list-be390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203884338737:android:2d3f55bdcdb6ae5b307f10",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list_konsolto_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203884338737-8gmma5q4r40um50c2bs040vr099gj1t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhUGnUAZzdVntwy8iyYmdrVOHKuc7lOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203884338737-8gmma5q4r40um50c2bs040vr099gj1t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

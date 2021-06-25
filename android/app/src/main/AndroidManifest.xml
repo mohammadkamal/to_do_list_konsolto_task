@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.to_do_list_konsolto_task">
+    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
-        android:label="to_do_list_konsolto_task"
+        android:label="To do list Konsolto task"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
